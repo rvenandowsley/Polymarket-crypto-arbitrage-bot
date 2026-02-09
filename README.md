@@ -12,6 +12,7 @@
 
 ---
 ## 试用
+### 暂时只支持Linux,最好是ubuntu24
 1. 下载release中的试用包：poly_1h_bot.zip
 2. 放到云服务器上面，需要确保所在地域能够被polymarket允许交易
 3. 配置好.env中前面的几个空白参数，参数由polymarket官网导出
